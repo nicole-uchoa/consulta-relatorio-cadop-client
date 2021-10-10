@@ -1,5 +1,5 @@
 # Interface web utilizando framework Vue.js
-Aplicação disponível (https://consultas-cadop.herokuapp.com/)
+Aplicação disponível https://consultas-cadop.herokuapp.com/
 
 ## Prerequisites
 - node.js 12
